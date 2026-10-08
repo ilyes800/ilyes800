@@ -4,7 +4,7 @@
 
 Je recherche un **stage de 12 semaines à partir de janvier 2027** en développement, réseaux ou cybersécurité.
 
-Après deux années de cycle préparatoire au CESI d’Arras, j’ai rejoint le cycle ingénieur informatique à Lille. Mes projets de formation m’ont permis de travailler sur la programmation orientée objet, les infrastructures réseau et les systèmes embarqués.
+Après deux années de cycle préparatoire au CESI d’Arras, j’ai rejoint le cycle ingénieur informatique à Lille. Mes projets de formation m’ont permis de travailler sur le développement web, la programmation orientée objet, les infrastructures réseau et les systèmes embarqués.
 
 [Consulter mon CV](CV-Ilyes-Farhat.pdf) · [Me contacter par e-mail](mailto:ilyes.farhat@viacesi.fr)
 
@@ -15,7 +15,7 @@ Après deux années de cycle préparatoire au CESI d’Arras, j’ai rejoint le 
 | [Funkytown](https://github.com/ilyes800/reseaux-funkytown) | Concevoir une infrastructure réseau pour plusieurs sites et organiser son déploiement. | Cisco Packet Tracer, VLAN, routage, DHCP, DNS |
 | [Jeu de la vie](https://github.com/ilyes800/projet_POO) | Simuler et visualiser l’évolution d’une population de cellules. | C++, SFML, STL, UML |
 | [Worldwide Weather Watcher](https://github.com/ilyes800/station-meteo) | Concevoir une station météo embarquée pour acquérir et enregistrer des mesures. | Arduino, capteurs, GPS, RTC, SD, EEPROM |
-| [Développement web](developpement-web.md) | Projet de deuxième année, présentation à compléter. | Détails à venir |
+| [Web for All](https://github.com/ilyes800/projet-web) | Centraliser les offres de stage et suivre les candidatures des étudiants. | PHP, HTML, CSS, JavaScript, SQL, MVC |
 
 ## Compétences
 
