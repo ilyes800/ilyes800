@@ -1,9 +1,7 @@
-# Développement web
+# Web for All — Développement web
 
-Projet réalisé en deuxième année du cycle préparatoire informatique au CESI.
+Projet de deuxième année : une application de recherche de stages et de suivi des candidatures, développée en PHP avec une base de données SQL et une architecture MVC.
 
-[Accéder au dépôt du projet](https://github.com/Blfb0-bot/projet-web)
-
-La présentation détaillée du besoin, des fonctionnalités et du résultat sera ajoutée à cette page.
+[Découvrir le projet et ses fonctionnalités](https://github.com/ilyes800/projet-web)
 
 [Retour au profil](README.md)
