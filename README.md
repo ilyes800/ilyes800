@@ -13,7 +13,7 @@ Après deux années de cycle préparatoire au CESI d’Arras, j’ai rejoint le 
 | Projet | Finalité | Technologies |
 | --- | --- | --- |
 | [Funkytown](https://github.com/ilyes800/reseaux-funkytown) | Concevoir une infrastructure réseau pour plusieurs sites et organiser son déploiement. | Cisco Packet Tracer, VLAN, routage, DHCP, DNS |
-| [Jeu de la vie](https://github.com/ilyes800/projet_POO) | Simuler et visualiser l’évolution d’une population de cellules. | C++, SFML, STL, UML |
+| [Jeu de la vie](https://github.com/ilyes800/jeu-de-la-vie) | Simuler et visualiser l’évolution d’une population de cellules. | C++, SFML, STL, UML |
 | [Worldwide Weather Watcher](https://github.com/ilyes800/station-meteo) | Concevoir une station météo embarquée pour acquérir et enregistrer des mesures. | Arduino, capteurs, GPS, RTC, SD, EEPROM |
 | [Web for All](https://github.com/ilyes800/projet-web) | Centraliser les offres de stage et suivre les candidatures des étudiants. | PHP, HTML, CSS, JavaScript, SQL, MVC |
 
